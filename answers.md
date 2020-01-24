@@ -50,6 +50,30 @@ Author: Hunter McIntosh <hm547416@ohio.edu>
 Date:   Fri Jan 24 14:35:16 2020 -0500
 
     initial commit
+answer 9 
+On branch master
+Your branch is up to date with 'origin/master'.
 
+nothing to commit, working tree clean
+
+answer 10 
+The file did not reflect the changes made on git hub
+
+answer 11
+git push READme.md
+fatal: invalid gitfile format: READme.md
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access right
+
+and the repository exists.
+
+answer 12
+changes were reflected in local copy 
+
+answer 13 
+.  ..  .git  .gitignore  README.md
+
+answer 14
 
 
